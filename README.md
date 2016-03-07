@@ -1,6 +1,6 @@
-Metafizzy Asset Bundle
-======================
-Yii2 asset bundle wrapper around David DeSandro javascript libraries masonry, isotope, packery, and draggabilly.
+Sieve Asset Bundle
+==================
+Yii2 asset bundle wrapper around Sieve jquery plugin.
 
 Installation
 ------------
@@ -26,8 +26,6 @@ Usage
 -----
 
 Once the extension is installed, simply use it in your code :
-
-(You use Isotope, Masonry, Packery, or Draggabilly the same way.)
 
 ```php
 <?php
